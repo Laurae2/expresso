@@ -9,6 +9,7 @@
 #
 # WARNING! All changes made in this file will be lost!
 
+import gtk
 from PyQt4 import QtCore, QtGui
 from qtutils import inmain_later,inthread,inmain
 from time import sleep
